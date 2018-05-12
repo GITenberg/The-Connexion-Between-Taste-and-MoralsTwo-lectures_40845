@@ -1,0 +1,29 @@
+_repo: The-Connexion-Between-Taste-and-MoralsTwo-lectures_40845
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40845-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hopkins, Mark
+    alias: Hopkins, Marcus
+    birthdate: 1802
+    deathdate: 1887
+    gutenberg_agent_id: '40618'
+    url: http://www.gutenberg.org/2009/agents/40618
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Hopkins_(educator)
+description: ''
+gutenberg_issued: '2012-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40845'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics'
+- !lcc 'BJ'
+- !lcsh 'Aesthetics'
+title: 'The Connexion Between Taste and Morals: Two lectures'
+url: http://www.gutenberg.org/ebooks/40845
