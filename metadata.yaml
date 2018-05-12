@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40618
     wikipedia: http://en.wikipedia.org/wiki/Mark_Hopkins_(educator)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40845#The-Connexion-Between-Taste-and-MoralsTwo-lectures
 gutenberg_issued: '2012-09-23'
 gutenberg_type: Text
 identifiers:
